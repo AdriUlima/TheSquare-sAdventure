@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Consentimiento Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Consentimiento
+  m_TableCollectionNameGuidString: c823b2c156d48a6498c7aca43e881892
+  m_Entries:
+  - m_Id: 545916583936
+    m_Key: Estimado participante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1219295313920
+    m_Key: titulo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5447132774400
+    m_Key: Yo,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5499171504128
+    m_Key: con DNI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6565162254336
+    m_Key: mayor de edad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7330132000768
+    m_Key: duracion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7529877340160
+    m_Key: correo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14288008380416
+    m_Key: NombreyApellidos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14380555698176
+    m_Key: Documento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19226163806208
+    m_Key: "S\xED acepto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19278978482176
+    m_Key: No acepto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21136044326912
+    m_Key: Nombre completo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21168545988608
+    m_Key: Firma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21187445522432
+    m_Key: "Correo electr\xF3nico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21204386316288
+    m_Key: "Tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21230126759936
+    m_Key: Fecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410701724778496
+    m_Key: Comenzar
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8417189920974307420
+  references:
+    version: 2
+    RefIds:
+    - rid: 8417189920974307420
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1793476791666

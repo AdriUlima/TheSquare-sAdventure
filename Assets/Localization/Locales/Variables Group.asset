@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1e3e22ff9634e441a479f01f905a2f7, type: 3}
+  m_Name: Variables Group
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.SmartFormat.PersistentVariables.VariablesGroupAsset
+  m_Variables:
+  - name: titulo
+    variable:
+      rid: 8417189920974307423
+  - name: duracion
+    variable:
+      rid: 8417189920974307425
+  - name: correo
+    variable:
+      rid: 8417189920974307426
+  - name: nombre
+    variable:
+      rid: 8417189920974307427
+  references:
+    version: 2
+    RefIds:
+    - rid: 8417189920974307423
+      type: {class: LocalizedString, ns: UnityEngine.Localization, asm: Unity.Localization}
+      data:
+        m_TableReference:
+          m_TableCollectionName: GUID:c823b2c156d48a6498c7aca43e881892
+        m_TableEntryReference:
+          m_KeyId: 1219295313920
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+    - rid: 8417189920974307425
+      type: {class: LocalizedString, ns: UnityEngine.Localization, asm: Unity.Localization}
+      data:
+        m_TableReference:
+          m_TableCollectionName: GUID:c823b2c156d48a6498c7aca43e881892
+        m_TableEntryReference:
+          m_KeyId: 7330132000768
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+    - rid: 8417189920974307426
+      type: {class: LocalizedString, ns: UnityEngine.Localization, asm: Unity.Localization}
+      data:
+        m_TableReference:
+          m_TableCollectionName: GUID:c823b2c156d48a6498c7aca43e881892
+        m_TableEntryReference:
+          m_KeyId: 7529877340160
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+    - rid: 8417189920974307427
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: "Adri\xE1n Duarte Romero"

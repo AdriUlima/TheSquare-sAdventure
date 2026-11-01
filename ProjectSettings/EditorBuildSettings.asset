@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Core.unity
+    guid: 4578bcfd6f304aa4ca5c2003abd2f40a
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 537b619c197557348be3948ea4662a70
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial1.unity
+    guid: bc01b1c8763b68342bdc410d7fc35d9d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial2.unity
+    guid: 07b66c2b447d7bc48bcb67dc26385a94
+  - enabled: 1
+    path: Assets/Scenes/Levels/Tutorial3.unity
+    guid: 905973be74e6c2b469a070620241a6b7
+  - enabled: 1
+    path: Assets/Scenes/Information.unity
+    guid: 8e9067ed659aa7c4280b7e8d9ec92ce5
+  - enabled: 1
+    path: Assets/Scenes/Levels/PlayDemo.unity
+    guid: 849fc558e2d9d364a8757cea49ef0bcc
+  - enabled: 1
+    path: Assets/Scenes/Encuesta.unity
+    guid: 022f08ced8760ef4694fc731341e1b20
+  - enabled: 1
+    path: Assets/Scenes/Gracias.unity
+    guid: 0f75dd02cc1803140b6bab2ff70499b0
+  - enabled: 0
+    path: Assets/Scenes/LevelEditor.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 0
+    path: Assets/Scenes/Levels/H1.unity
+    guid: 016e65c6c42c9c74caba1c7f37ec4f36
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f18a9517adac54f419874f3cca8f3dab, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: fbf6eb82a94e6a944b0895e85a39b115, type: 2}

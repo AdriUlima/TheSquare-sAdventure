@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Consentimiento_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c823b2c156d48a6498c7aca43e881892, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8417189920974307422
+  m_TableData:
+  - m_Id: 545916583936
+    m_Localized: "<b>Estimado/a participante:</b>\r\n\nLo invitamos a participar en el siguiente experimento, que tiene por finalidad evaluar el rendimiento de un algoritmo de generaci\xF3n procedural para puzzles Ice-Sliding y su satisfacci\xF3n resultante.\r\n\r\nEl experimento forma parte de la investigaci\xF3n {global.titulo}, a cargo de {global.nombre}, estudiante de la Carrera de Ingenier\xEDa de Sistemas de la Universidad de Lima.\r\n\nCompletar el experimento le tomar\xE1 aproximadamente <b>{global.duracion}</b>.\n\nSu participaci\xF3n en el experimento es <b>totalmente voluntaria, an\xF3nima, y podr\xE1 retirarse en cualquier momento</b>. La informaci\xF3n brindada ser\xE1 estrictamente confidencial y para fines acad\xE9micos. Si desea m\xE1s informaci\xF3n sobre la presente investigaci\xF3n, puede escribir al siguiente correo electr\xF3nico: <b>{global.correo}</b>\n\nAdicionalmente, al seguir adelante y completar el experimento, <b>usted da su consentimiento, declara ser mayor de edad y estar en capacidad de participar en el proyecto de investigaci\xF3n</b>.\n\nMuchas gracias por su atenci\xF3n."
+    m_Metadata:
+      m_Items:
+      - rid: 8417189920974307422
+  - m_Id: 1219295313920
+    m_Localized: "<b>\u201CGeneraci\xF3n procedural de niveles para puzzles Ice-Sliding: dise\xF1o del algoritmo y evaluaci\xF3n de satisfacci\xF3n en jugadores j\xF3venes\"</b>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5447132774400
+    m_Localized: 'Yo, '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5499171504128
+    m_Localized: ", con DNI/CE/pasaporte n.\xB0 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6565162254336
+    m_Localized: "mayor de edad, doy mi consentimiento para participar en la investigaci\xF3n {global.titulo}, a cargo del investigador {global.nombre}, de la carrera de Ingenier\xEDa de Sistemas de la Universidad de Lima.\n\r\nDeclaro que he sido claramente informad@, mediante la carta de presentaci\xF3n sobre la investigaci\xF3n y su objetivo, el modo en que participar\xE9, los riesgos y beneficios de mi participaci\xF3n, la voluntariedad de mi participaci\xF3n, mi derecho a retirarme del estudio en cualquier momento, y el tratamiento y la confidencialidad de los datos.\r\n\nTambi\xE9n he recibido informaci\xF3n acerca del investigador responsable y el Comit\xE9 de \xC9tica al que puedo recurrir ante alguna consulta.\r\n\nTengo conocimiento de que el tratamiento de los datos y su confidencialidad ser\xE1n preservados, que los datos personales que proporcione ser\xE1n tratados <b>de acuerdo con lo establecido en la Ley de Protecci\xF3n de Datos Personales, Ley 29733</b>, y autorizo que mi informaci\xF3n se utilice de manera an\xF3nima en esta investigaci\xF3n y sus productos cient\xEDficos (informes, art\xEDculos, p\xF3steres, entre otros).\r\n\nDe igual forma, me comprometo a guardar estricta confidencialidad sobre toda la informaci\xF3n a la que tenga acceso o de la que tenga conocimiento como parte de mi participaci\xF3n voluntaria en la presente investigaci\xF3n."
+    m_Metadata:
+      m_Items:
+      - rid: 8417189920974307422
+  - m_Id: 14288008380416
+    m_Localized: Nombre y Apellidos...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7330132000768
+    m_Localized: 15 minutos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7529877340160
+    m_Localized: 20200711@aloe.ulima.edu.pe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14380555698176
+    m_Localized: Documento...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19226163806208
+    m_Localized: "S\xED, acepto participar voluntariamente en esta investigaci\xF3n, declaro ser mayor de edad y que he sido claramente informad@ de los objetivos y condiciones descritos anteriormente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19278978482176
+    m_Localized: No acepto participar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21136044326912
+    m_Localized: Nombre completo del/de la participante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21168545988608
+    m_Localized: Firma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21187445522432
+    m_Localized: "Correo electr\xF3nico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21204386316288
+    m_Localized: "Tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21230126759936
+    m_Localized: Fecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410701724778496
+    m_Localized: Comenzar!!!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8417189920974307422
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 545916583936
+        - id: 6565162254336
